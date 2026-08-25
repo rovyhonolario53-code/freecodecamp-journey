@@ -1,0 +1,74 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Voting Poll</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <div class="container">
+        <h1>📊 Voting Poll</h1>
+        
+        <div class="main-content">
+            <!-- Add Option Section -->
+            <div class="section add-option-section">
+                <h2>Add New Option</h2>
+                <form id="addOptionForm">
+                    <input 
+                        type="text" 
+                        id="optionInput" 
+                        placeholder="Enter option name"
+                        autocomplete="off"
+                    >
+                    <button type="submit">Add Option</button>
+                </form>
+                <div id="addOptionMessage" class="message"></div>
+            </div>
+
+            <!-- Current Options Section -->
+            <div class="section options-section">
+                <h2>Current Options</h2>
+                <div id="optionsList" class="options-list">
+                    <p class="empty-state">No options added yet</p>
+                </div>
+            </div>
+
+            <!-- Voting Section -->
+            <div class="section voting-section">
+                <h2>Cast Your Vote</h2>
+                <form id="voteForm">
+                    <div class="form-group">
+                        <label for="voteOption">Select Option:</label>
+                        <select id="voteOption" required>
+                            <option value="">-- Choose an option --</option>
+                        </select>
+                    </div>
+                    <div class="form-group">
+                        <label for="voterId">Your ID:</label>
+                        <input 
+                            type="text" 
+                            id="voterId" 
+                            placeholder="Enter your voter ID"
+                            autocomplete="off"
+                            required
+                        >
+                    </div>
+                    <button type="submit">Vote</button>
+                </form>
+                <div id="voteMessage" class="message"></div>
+            </div>
+
+            <!-- Results Section -->
+            <div class="section results-section">
+                <h2>Poll Results</h2>
+                <div id="resultsList" class="results-list">
+                    <p class="empty-state">No votes yet</p>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <script src="script.js"></script>
+</body>
+</html>
