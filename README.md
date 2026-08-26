@@ -13,7 +13,6 @@ This repository contains a growing collection of front-end projects, labs, and w
 
 - [Bank-Account-Management-Project](projects/Bank-Account-Management-Project/) - A project for building and practicing Bank Account Management Project.
 - [Drum-Project](projects/Drum-Project/) - A project for building and practicing Drum Project.
-- [To-Do-List-Project](projects/To-Do-List-Project/) - A project for building and practicing To Do List Project.
 - [Voting-Project](projects/Voting-Project/) - A project for building and practicing Voting Project.
 
 ## Labs
@@ -25,6 +24,7 @@ This repository contains a growing collection of front-end projects, labs, and w
 
 - [Decimal-to-Binary-Workshop](workshops/Decimal-to-Binary-Workshop/) - A workshop for learning and applying Decimal To Binary Workshop.
 - [Shopping-Cart-Workshop](workshops/Shopping-Cart-Workshop/) - A workshop for learning and applying Shopping Cart Workshop.
+- [To-Do-List-Workshop](workshops/To-Do-List-Workshop/) - A workshop for learning and applying To Do List Workshop.
 
 ## Challenges
 
