@@ -1,0 +1,113 @@
+:root {
+    --ink: #172c2c;
+    --muted: #6b7d7b;
+    --line: #dce7e3;
+    --paper: #f4f7f3;
+    --white: #ffffff;
+    --mint: #d8f2e5;
+    --green: #197653;
+    --coral: #d86655;
+}
+
+* { box-sizing: border-box; }
+html { scroll-behavior: smooth; }
+body { margin: 0; color: var(--ink); background: var(--paper); font-family: "DM Sans", sans-serif; }
+body::before { content: ""; position: fixed; inset: 0 0 auto; height: 7px; background: #f5bd5a; z-index: 2; }
+.app-shell { max-width: 1180px; margin: auto; padding: 0 34px; }
+.topbar { height: 92px; display: flex; align-items: center; justify-content: space-between; border-bottom: 1px solid var(--line); }
+.brand { display: flex; align-items: center; gap: 10px; color: var(--ink); font-family: "Space Grotesk", sans-serif; font-size: 22px; font-weight: 700; letter-spacing: -.5px; text-decoration: none; }
+.brand-mark { display: grid; width: 32px; height: 32px; place-items: center; border-radius: 9px 9px 9px 2px; color: var(--white); background: var(--ink); font-size: 17px; }
+.brand-dot { color: #ed9d42; }
+nav { display: flex; gap: 34px; margin-left: 120px; }
+.nav-link { padding: 35px 0 31px; color: var(--muted); font-size: 14px; font-weight: 600; text-decoration: none; }
+.nav-link.active { color: var(--ink); border-bottom: 3px solid #efb24f; }
+.profile { display: flex; align-items: center; gap: 10px; color: var(--ink); font-size: 13px; font-weight: 600; }
+.profile-avatar { display: grid; width: 34px; height: 34px; place-items: center; border-radius: 50%; color: var(--ink); background: #f3d3a7; font-size: 11px; }
+.profile-chevron { margin-left: 2px; color: var(--muted); font-size: 18px; }
+main { padding: 62px 0 70px; }
+.welcome-row, .section-heading { display: flex; align-items: end; justify-content: space-between; gap: 24px; }
+.eyebrow { margin: 0 0 11px; color: #8b9a97; font-size: 10px; font-weight: 700; letter-spacing: 1.6px; }
+h1, h2 { margin: 0; font-family: "Space Grotesk", sans-serif; letter-spacing: -1.1px; }
+h1 { font-size: clamp(30px, 4vw, 42px); }
+h2 { font-size: 26px; }
+.intro { margin: 11px 0 0; color: var(--muted); font-size: 14px; }
+.outline-button, .text-button { border: 1px solid var(--line); border-radius: 5px; color: var(--ink); background: var(--white); font: 600 12px "DM Sans", sans-serif; cursor: pointer; }
+.outline-button { padding: 12px 17px; }
+.outline-button span, .text-button span { margin-left: 9px; color: var(--green); font-size: 17px; vertical-align: -1px; }
+.dashboard-grid { display: grid; grid-template-columns: 1.6fr 1fr 1fr; gap: 16px; margin-top: 42px; }
+.balance-card { min-height: 274px; padding: 25px 28px 22px; border-radius: 7px; color: var(--white); background: var(--ink); box-shadow: 0 14px 30px rgba(23, 44, 44, .12); }
+.card-heading, .balance-footer { display: flex; justify-content: space-between; align-items: center; }
+.card-heading { font-size: 13px; font-weight: 600; }
+.status-dot { color: #9dd8b6; font-size: 11px; font-weight: 500; }
+.account-number { margin-top: 9px; color: #91aaa5; font-size: 11px; letter-spacing: 2px; }
+.balance-label, .metric-label { margin: 41px 0 7px; color: #8da5a0; font-size: 10px; font-weight: 700; letter-spacing: 1.4px; }
+.balance { margin: 0; font: 600 42px "Space Grotesk", sans-serif; letter-spacing: -2px; }
+.balance span { color: #8da5a0; font-size: 23px; letter-spacing: -1px; }
+.balance-footer { margin-top: 35px; color: #8da5a0; font-size: 10px; }
+.card-chip { color: #e8b56a; font-size: 20px; transform: rotate(90deg); }
+.metric-card { min-height: 274px; padding: 25px 24px; border: 1px solid var(--line); border-radius: 7px; background: var(--white); }
+.metric-icon { display: grid; width: 38px; height: 38px; place-items: center; border-radius: 50%; font-size: 21px; font-weight: 500; }
+.metric-icon.green { color: var(--green); background: var(--mint); }
+.metric-icon.coral { color: var(--coral); background: #f8dfd8; }
+.metric-label { margin-top: 43px; color: #8b9a97; }
+.metric-value { margin: 0; font: 600 27px "Space Grotesk", sans-serif; letter-spacing: -.8px; }
+.metric-note { margin: 9px 0 0; color: var(--muted); font-size: 11px; }
+.transfer-panel { display: grid; grid-template-columns: .8fr 1.6fr; gap: 30px; align-items: start; margin-top: 28px; padding: 24px 28px 16px; border: 1px solid var(--line); border-radius: 7px; background: var(--white); }
+.transfer-panel h2 { font-size: 20px; }
+.transfer-panel form { display: grid; gap: 7px; }
+.transfer-panel label { color: var(--muted); font-size: 11px; font-weight: 600; }
+.transaction-controls { display: flex; gap: 9px; }
+.amount-input { display: flex; flex: 1; align-items: center; border: 1px solid var(--line); border-radius: 4px; color: var(--muted); background: var(--paper); }
+.amount-input span { padding-left: 12px; }
+.amount-input input, .transaction-controls select, .transaction-controls button { min-height: 40px; border: 0; font: 600 12px "DM Sans", sans-serif; }
+.amount-input input { width: 100%; padding: 0 10px; outline: 0; color: var(--ink); background: transparent; }
+.transaction-controls select { padding: 0 28px 0 12px; border: 1px solid var(--line); border-radius: 4px; color: var(--ink); background: var(--paper); }
+.transaction-controls button { padding: 0 16px; border-radius: 4px; color: var(--white); background: var(--green); cursor: pointer; }
+.transaction-controls button span { margin-left: 7px; font-size: 16px; }
+.feedback { min-height: 14px; margin: 3px 0 0; color: var(--muted); font-size: 11px; }
+.feedback.success { color: var(--green); }
+.feedback.error { color: var(--coral); }
+.activity-table > [data-activity] { display: contents; }
+.activity-section { margin-top: 66px; }
+.text-button { padding: 0; border: 0; background: transparent; }
+.activity-table { margin-top: 21px; border-top: 1px solid var(--line); }
+.table-head, .transaction { display: grid; grid-template-columns: 1.7fr 1fr .55fr; align-items: center; }
+.table-head { padding: 15px 18px 12px; color: #8b9a97; font-size: 9px; font-weight: 700; letter-spacing: 1.3px; }
+.transaction { min-height: 72px; padding: 12px 18px; border-top: 1px solid var(--line); background: rgba(255,255,255,.45); font-size: 13px; }
+.transaction-description { display: flex; align-items: center; gap: 13px; }
+.transaction-icon { display: grid; width: 31px; height: 31px; place-items: center; border-radius: 50%; font-size: 20px; }
+.transaction-icon.deposit { color: var(--green); background: var(--mint); }
+.transaction-icon.withdrawal { color: var(--coral); background: #f8dfd8; }
+.transaction strong { display: block; font-size: 13px; }
+.transaction small { display: block; margin-top: 3px; color: var(--muted); font-size: 10px; }
+.transaction-date { color: var(--muted); font-size: 11px; }
+.amount { text-align: right; }
+.deposit-text { color: var(--green); }
+.withdrawal-text { color: var(--ink); }
+footer { display: flex; justify-content: space-between; padding: 20px 0 34px; border-top: 1px solid var(--line); color: #8b9a97; font-size: 10px; }
+
+@media (max-width: 700px) {
+    .app-shell { padding: 0 18px; }
+    .topbar { height: 78px; }
+    nav { display: none; }
+    .profile-name, .profile-chevron { display: none; }
+    main { padding: 42px 0 48px; }
+    .welcome-row { display: block; }
+    .outline-button { margin-top: 24px; }
+    .dashboard-grid { grid-template-columns: 1fr; margin-top: 30px; }
+    .balance-card, .metric-card { min-height: auto; }
+    .balance-footer { margin-top: 28px; }
+    .metric-card { padding: 20px 22px; }
+    .metric-label { margin-top: 24px; }
+    .activity-section { margin-top: 48px; }
+    .transfer-panel { display: block; padding: 22px; }
+    .transfer-panel form { margin-top: 24px; }
+    .transaction-controls { flex-wrap: wrap; }
+    .amount-input { min-width: 130px; }
+    .transaction-controls select, .transaction-controls button { flex: 1; }
+    .table-head { grid-template-columns: 1fr .55fr; }
+    .table-head span:nth-child(2) { display: none; }
+    .transaction { grid-template-columns: 1fr .65fr; padding: 12px 8px; }
+    .transaction-date { display: none; }
+    footer { display: block; line-height: 2; }
+}
