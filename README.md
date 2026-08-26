@@ -11,7 +11,6 @@ This repository contains a growing collection of front-end projects, labs, and w
 
 ## Projects
 
-- [Bank-Account-Management-App](projects/Bank-Account-Management-App/) - A project for building and practicing Bank Account Management App.
 - [Bank-Account-Management-Project](projects/Bank-Account-Management-Project/) - A project for building and practicing Bank Account Management Project.
 - [Drum-Project](projects/Drum-Project/) - A project for building and practicing Drum Project.
 - [To-Do-List-Project](projects/To-Do-List-Project/) - A project for building and practicing To Do List Project.
@@ -19,16 +18,13 @@ This repository contains a growing collection of front-end projects, labs, and w
 
 ## Labs
 
-- [Bookmark-App](labs/Bookmark-App/) - A lab exercise focused on Bookmark App.
 - [Bookmark-App-Lab](labs/Bookmark-App-Lab/) - A lab exercise focused on Bookmark App Lab.
 - [Permutation-Generator-Lab](labs/Permutation-Generator-Lab/) - A lab exercise focused on Permutation Generator Lab.
 
 ## Workshops
 
-- [Decimal-to-Binary-Converter-Workshop](workshops/Decimal-to-Binary-Converter-Workshop/) - A workshop for learning and applying Decimal To Binary Converter Workshop.
 - [Decimal-to-Binary-Workshop](workshops/Decimal-to-Binary-Workshop/) - A workshop for learning and applying Decimal To Binary Workshop.
 - [Shopping-Cart-Workshop](workshops/Shopping-Cart-Workshop/) - A workshop for learning and applying Shopping Cart Workshop.
-- [To-Do-List-Workshop](workshops/To-Do-List-Workshop/) - A workshop for learning and applying To Do List Workshop.
 
 ## Challenges
 
