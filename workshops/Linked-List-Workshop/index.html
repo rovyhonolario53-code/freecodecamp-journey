@@ -24,6 +24,12 @@
                 <input id="node-value" name="value" type="text" placeholder="e.g. 45" autocomplete="off" required>
                 <button type="submit">Add node</button>
                 <button class="secondary" id="remove-node" type="button">Remove</button>
+                <label for="node-index">Index</label>
+                <input id="node-index" name="index" type="number" min="0" placeholder="index">
+                <button class="secondary" id="insert-node" type="button">Insert at</button>
+                <button class="secondary" id="remove-at" type="button">Remove at</button>
+                <button class="secondary" id="get-at" type="button">Get at</button>
+                <button class="secondary" id="contains-node" type="button">Contains?</button>
                 <button class="icon-button" id="clear-list" type="button" aria-label="Clear list" title="Clear list">Reset</button>
             </form>
             <p class="feedback" id="feedback" role="status" aria-live="polite"></p>
