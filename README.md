@@ -21,6 +21,7 @@ This repository contains a growing collection of front-end projects, labs, and w
 - [Implementing-Queue-Lab](labs/Implementing-Queue-Lab/) - A lab exercise focused on Implementing Queue Lab.
 - [Implementing-Stack-Lab](labs/Implementing-Stack-Lab/) - A lab exercise focused on Implementing Stack Lab.
 - [Permutation-Generator-Lab](labs/Permutation-Generator-Lab/) - A lab exercise focused on Permutation Generator Lab.
+- [Search-and-Sort-Lab](labs/Search-and-Sort-Lab/) - A lab exercise focused on Search And Sort Lab.
 
 ## Workshops
 

@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Search + Sort Lab</title>
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+  <main class="app-shell">
+    <header class="topbar">
+      <div><p class="eyebrow">ALGORITHM LAB / 01</p><h1>Search + Sort <span>in motion.</span></h1></div>
+      <div class="complexity"><span>COMPLEXITY</span><strong id="complexity">O(n²) time</strong></div>
+    </header>
+    <section class="workspace">
+      <aside class="controls">
+        <label for="algorithm">Choose an algorithm</label>
+        <select id="algorithm"><option value="bubble">Bubble sort</option><option value="selection">Selection sort</option><option value="insertion">Insertion sort</option><option value="quick">Quicksort</option><option value="merge">Merge sort</option><option value="binary">Binary search</option></select>
+        <label for="values">Numbers <small>comma separated</small></label>
+        <input id="values" value="42, 17, 8, 31, 23, 4, 16, 9">
+        <label for="target">Search target <small>binary search only</small></label>
+        <input id="target" type="number" value="23">
+        <button class="primary" id="run">Run visualization <span>↗</span></button>
+        <div class="legend"><p><i class="swatch compared"></i> Comparing</p><p><i class="swatch active"></i> Active / changed</p></div>
+        <div class="note"><strong id="step-label">STEP 1 / 1</strong><p id="explanation">Choose an algorithm to see how it works.</p></div>
+      </aside>
+      <section class="visualizer" aria-live="polite">
+        <div class="visualizer-head"><div><p class="eyebrow">LIVE TRACE</p><h2 id="status">Ready to explore</h2></div><div class="controls-row"><button id="reset" title="Reset visualization">Reset</button><button id="step" title="Advance one step">Step</button><button class="play" id="play">Play</button></div></div>
+        <div class="chart" id="bars"></div>
+        <div class="chart-footer"><span>INDEX</span><span>LOW VALUE</span><span>HIGH VALUE</span></div>
+      </section>
+    </section>
+    <footer><span>Compare. Observe. Understand.</span><span>Built for curious minds.</span></footer>
+  </main>
+  <script src="script.js"></script>
+</body>
+</html>
