@@ -32,6 +32,8 @@ This repository contains a growing collection of front-end projects, labs, and w
 
 ## Challenges
 
+- [Emoji-Challenge](challenges/Emoji-Challenge/) - A coding challenge focused on Emoji Challenge.
+- [Golf-Handicap-Calculator-Challenge](challenges/Golf-Handicap-Calculator-Challenge/) - A coding challenge focused on Golf Handicap Calculator Challenge.
 - [Grid-Challenge](challenges/Grid-Challenge/) - A coding challenge focused on Grid Challenge.
 - [Second-Best-Challenge](challenges/Second-Best-Challenge/) - A coding challenge focused on Second Best Challenge.
 - [Vowe-Balance-Challenge](challenges/Vowe-Balance-Challenge/) - A coding challenge focused on Vowe Balance Challenge.
