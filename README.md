@@ -32,5 +32,6 @@ This repository contains a growing collection of front-end projects, labs, and w
 
 ## Challenges
 
-- No items added yet.
+- [Second-Best-Challenge](challenges/Second-Best-Challenge/) - A coding challenge focused on Second Best Challenge.
+- [Vowe-Balance-Challenge](challenges/Vowe-Balance-Challenge/) - A coding challenge focused on Vowe Balance Challenge.
 
