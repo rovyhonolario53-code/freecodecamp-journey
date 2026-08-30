@@ -17,6 +17,7 @@ This repository contains a growing collection of front-end projects, labs, and w
 
 ## Labs
 
+- [adjacentList-to-adjacentMatrix-Lab](labs/adjacentList-to-adjacentMatrix-Lab/) - A lab exercise focused on Adjacent List To Adjacent Matrix Lab.
 - [Bookmark-App-Lab](labs/Bookmark-App-Lab/) - A lab exercise focused on Bookmark App Lab.
 - [Implementing-Queue-Lab](labs/Implementing-Queue-Lab/) - A lab exercise focused on Implementing Queue Lab.
 - [Implementing-Stack-Lab](labs/Implementing-Stack-Lab/) - A lab exercise focused on Implementing Stack Lab.
@@ -37,5 +38,6 @@ This repository contains a growing collection of front-end projects, labs, and w
 - [Golf-Handicap-Calculator-Challenge](challenges/Golf-Handicap-Calculator-Challenge/) - A coding challenge focused on Golf Handicap Calculator Challenge.
 - [Grid-Challenge](challenges/Grid-Challenge/) - A coding challenge focused on Grid Challenge.
 - [Second-Best-Challenge](challenges/Second-Best-Challenge/) - A coding challenge focused on Second Best Challenge.
-- [Vowe-Balance-Challenge](challenges/Vowe-Balance-Challenge/) - A coding challenge focused on Vowe Balance Challenge.
+- [Seconds-Formatter-Challenge](challenges/Seconds-Formatter-Challenge/) - A coding challenge focused on Seconds Formatter Challenge.
+- [Vowel-Balance-Challenge](challenges/Vowel-Balance-Challenge/) - A coding challenge focused on Vowel Balance Challenge.
 
