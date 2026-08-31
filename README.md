@@ -19,6 +19,7 @@ This repository contains a growing collection of front-end projects, labs, and w
 
 - [adjacentList-to-adjacentMatrix-Lab](labs/adjacentList-to-adjacentMatrix-Lab/) - A lab exercise focused on Adjacent List To Adjacent Matrix Lab.
 - [Bookmark-App-Lab](labs/Bookmark-App-Lab/) - A lab exercise focused on Bookmark App Lab.
+- [Implement-DFS-Lab](labs/Implement-DFS-Lab/) - A lab exercise focused on Implement D F S Lab.
 - [Implementing-Queue-Lab](labs/Implementing-Queue-Lab/) - A lab exercise focused on Implementing Queue Lab.
 - [Implementing-Stack-Lab](labs/Implementing-Stack-Lab/) - A lab exercise focused on Implementing Stack Lab.
 - [Permutation-Generator-Lab](labs/Permutation-Generator-Lab/) - A lab exercise focused on Permutation Generator Lab.
