@@ -27,6 +27,7 @@ This repository contains a growing collection of front-end projects, labs, and w
 ## Workshops
 
 - [Decimal-to-Binary-Workshop](workshops/Decimal-to-Binary-Workshop/) - A workshop for learning and applying Decimal To Binary Workshop.
+- [Implement-BFS-WorkShop](workshops/Implement-BFS-WorkShop/) - A workshop for learning and applying Implement B F S Work Shop.
 - [Implement-Shortest-Distance-Workshop](workshops/Implement-Shortest-Distance-Workshop/) - A workshop for learning and applying Implement Shortest Distance Workshop.
 - [Linked-List-Workshop](workshops/Linked-List-Workshop/) - A workshop for learning and applying Linked List Workshop.
 - [Shopping-Cart-Workshop](workshops/Shopping-Cart-Workshop/) - A workshop for learning and applying Shopping Cart Workshop.
@@ -34,6 +35,7 @@ This repository contains a growing collection of front-end projects, labs, and w
 
 ## Challenges
 
+- [Array-Duplicates-Challenge](challenges/Array-Duplicates-Challenge/) - A coding challenge focused on Array Duplicates Challenge.
 - [Emoji-Challenge](challenges/Emoji-Challenge/) - A coding challenge focused on Emoji Challenge.
 - [Golf-Handicap-Calculator-Challenge](challenges/Golf-Handicap-Calculator-Challenge/) - A coding challenge focused on Golf Handicap Calculator Challenge.
 - [Grid-Challenge](challenges/Grid-Challenge/) - A coding challenge focused on Grid Challenge.

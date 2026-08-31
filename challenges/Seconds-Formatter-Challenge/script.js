@@ -34,4 +34,4 @@ function getSpokenDuration(seconds) {
     return result;
 }
 
-console.log(getSpokenDuration(3723))
+console.log(getSpokenDuration(360))
