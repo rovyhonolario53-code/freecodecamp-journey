@@ -13,16 +13,19 @@ This repository contains a growing collection of front-end projects, labs, and w
 
 - [Bank-Account-Management-Project](projects/Bank-Account-Management-Project/) - A project for building and practicing Bank Account Management Project.
 - [Drum-Project](projects/Drum-Project/) - A project for building and practicing Drum Project.
+- [Nth-Fibonacci-Sequence-Calculator](projects/Nth-Fibonacci-Sequence-Calculator/) - A project for building and practicing Nth Fibonacci Sequence Calculator.
 - [Voting-Project](projects/Voting-Project/) - A project for building and practicing Voting Project.
 
 ## Labs
 
 - [adjacentList-to-adjacentMatrix-Lab](labs/adjacentList-to-adjacentMatrix-Lab/) - A lab exercise focused on Adjacent List To Adjacent Matrix Lab.
 - [Bookmark-App-Lab](labs/Bookmark-App-Lab/) - A lab exercise focused on Bookmark App Lab.
+- [dfsNqueen-Algorithm-Lab](labs/dfsNqueen-Algorithm-Lab/) - A lab exercise focused on Dfs Nqueen Algorithm Lab.
 - [Implement-DFS-Lab](labs/Implement-DFS-Lab/) - A lab exercise focused on Implement D F S Lab.
 - [Implementing-Queue-Lab](labs/Implementing-Queue-Lab/) - A lab exercise focused on Implementing Queue Lab.
 - [Implementing-Stack-Lab](labs/Implementing-Stack-Lab/) - A lab exercise focused on Implementing Stack Lab.
 - [Permutation-Generator-Lab](labs/Permutation-Generator-Lab/) - A lab exercise focused on Permutation Generator Lab.
+- [Prime-Sum-Calculator-Lab](labs/Prime-Sum-Calculator-Lab/) - A lab exercise focused on Prime Sum Calculator Lab.
 - [Search-and-Sort-Lab](labs/Search-and-Sort-Lab/) - A lab exercise focused on Search And Sort Lab.
 
 ## Workshops
@@ -42,5 +45,6 @@ This repository contains a growing collection of front-end projects, labs, and w
 - [Grid-Challenge](challenges/Grid-Challenge/) - A coding challenge focused on Grid Challenge.
 - [Second-Best-Challenge](challenges/Second-Best-Challenge/) - A coding challenge focused on Second Best Challenge.
 - [Seconds-Formatter-Challenge](challenges/Seconds-Formatter-Challenge/) - A coding challenge focused on Seconds Formatter Challenge.
+- [Tribonacci-Results-Generator-Challenge](challenges/Tribonacci-Results-Generator-Challenge/) - A coding challenge focused on Tribonacci Results Generator Challenge.
 - [Vowel-Balance-Challenge](challenges/Vowel-Balance-Challenge/) - A coding challenge focused on Vowel Balance Challenge.
 
