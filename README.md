@@ -19,6 +19,7 @@ This repository contains a growing collection of front-end projects, labs, and w
 
 - [adjacentList-to-adjacentMatrix-Lab](labs/adjacentList-to-adjacentMatrix-Lab/) - A lab exercise focused on Adjacent List To Adjacent Matrix Lab.
 - [Bookmark-App-Lab](labs/Bookmark-App-Lab/) - A lab exercise focused on Bookmark App Lab.
+- [Currying-Sum-Function-Lab](labs/Currying-Sum-Function-Lab/) - A lab exercise focused on Currying Sum Function Lab.
 - [dfsNqueen-Algorithm-Lab](labs/dfsNqueen-Algorithm-Lab/) - A lab exercise focused on Dfs Nqueen Algorithm Lab.
 - [Implement-DFS-Lab](labs/Implement-DFS-Lab/) - A lab exercise focused on Implement D F S Lab.
 - [Implementing-Queue-Lab](labs/Implementing-Queue-Lab/) - A lab exercise focused on Implementing Queue Lab.
@@ -40,12 +41,15 @@ This repository contains a growing collection of front-end projects, labs, and w
 
 ## Challenges
 
+- [areAnagram-Challenge](challenges/areAnagram-Challenge/) - A coding challenge focused on Are Anagram Challenge.
 - [Array-Duplicates-Challenge](challenges/Array-Duplicates-Challenge/) - A coding challenge focused on Array Duplicates Challenge.
 - [Emoji-Challenge](challenges/Emoji-Challenge/) - A coding challenge focused on Emoji Challenge.
 - [Golf-Handicap-Calculator-Challenge](challenges/Golf-Handicap-Calculator-Challenge/) - A coding challenge focused on Golf Handicap Calculator Challenge.
 - [Grid-Challenge](challenges/Grid-Challenge/) - A coding challenge focused on Grid Challenge.
+- [Jumbled-Challenge](challenges/Jumbled-Challenge/) - A coding challenge focused on Jumbled Challenge.
 - [Second-Best-Challenge](challenges/Second-Best-Challenge/) - A coding challenge focused on Second Best Challenge.
 - [Seconds-Formatter-Challenge](challenges/Seconds-Formatter-Challenge/) - A coding challenge focused on Seconds Formatter Challenge.
+- [Spacejam-Challenge](challenges/Spacejam-Challenge/) - A coding challenge focused on Spacejam Challenge.
 - [Tribonacci-Results-Generator-Challenge](challenges/Tribonacci-Results-Generator-Challenge/) - A coding challenge focused on Tribonacci Results Generator Challenge.
 - [Vowel-Balance-Challenge](challenges/Vowel-Balance-Challenge/) - A coding challenge focused on Vowel Balance Challenge.
 
