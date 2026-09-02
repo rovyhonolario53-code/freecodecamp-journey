@@ -34,6 +34,7 @@ This repository contains a growing collection of front-end projects, labs, and w
 - [Implement-BFS-WorkShop](workshops/Implement-BFS-WorkShop/) - A workshop for learning and applying Implement B F S Work Shop.
 - [Implement-Shortest-Distance-Workshop](workshops/Implement-Shortest-Distance-Workshop/) - A workshop for learning and applying Implement Shortest Distance Workshop.
 - [Linked-List-Workshop](workshops/Linked-List-Workshop/) - A workshop for learning and applying Linked List Workshop.
+- [Recipe-Ingredient-Converter-Workshop](workshops/Recipe-Ingredient-Converter-Workshop/) - A workshop for learning and applying Recipe Ingredient Converter Workshop.
 - [Shopping-Cart-Workshop](workshops/Shopping-Cart-Workshop/) - A workshop for learning and applying Shopping Cart Workshop.
 - [To-Do-List-Workshop](workshops/To-Do-List-Workshop/) - A workshop for learning and applying To Do List Workshop.
 
