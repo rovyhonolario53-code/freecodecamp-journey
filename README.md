@@ -13,7 +13,6 @@ This repository contains a growing collection of front-end projects, labs, and w
 
 - [Bank-Account-Management-Project](projects/Bank-Account-Management-Project/) - A project for building and practicing Bank Account Management Project.
 - [Drum-Project](projects/Drum-Project/) - A project for building and practicing Drum Project.
-- [Nth-Fibonacci-Sequence-Calculator](projects/Nth-Fibonacci-Sequence-Calculator/) - A project for building and practicing Nth Fibonacci Sequence Calculator.
 - [Voting-Project](projects/Voting-Project/) - A project for building and practicing Voting Project.
 
 ## Labs
@@ -24,6 +23,7 @@ This repository contains a growing collection of front-end projects, labs, and w
 - [Implement-DFS-Lab](labs/Implement-DFS-Lab/) - A lab exercise focused on Implement D F S Lab.
 - [Implementing-Queue-Lab](labs/Implementing-Queue-Lab/) - A lab exercise focused on Implementing Queue Lab.
 - [Implementing-Stack-Lab](labs/Implementing-Stack-Lab/) - A lab exercise focused on Implementing Stack Lab.
+- [Nth-Fibonacci-Sequence-Calculator-Lab](labs/Nth-Fibonacci-Sequence-Calculator-Lab/) - A lab exercise focused on Nth Fibonacci Sequence Calculator Lab.
 - [Permutation-Generator-Lab](labs/Permutation-Generator-Lab/) - A lab exercise focused on Permutation Generator Lab.
 - [Prime-Sum-Calculator-Lab](labs/Prime-Sum-Calculator-Lab/) - A lab exercise focused on Prime Sum Calculator Lab.
 - [Search-and-Sort-Lab](labs/Search-and-Sort-Lab/) - A lab exercise focused on Search And Sort Lab.
