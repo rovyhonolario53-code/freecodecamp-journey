@@ -14,6 +14,7 @@ This repository contains a growing collection of front-end projects, labs, and w
 - [Bank-Account-Management-Project](projects/Bank-Account-Management-Project/) - A project for building and practicing Bank Account Management Project.
 - [Drum-Project](projects/Drum-Project/) - A project for building and practicing Drum Project.
 - [Voting-Project](projects/Voting-Project/) - A project for building and practicing Voting Project.
+- [Weather-App-Project](projects/Weather-App-Project/) - A project for building and practicing Weather App Project.
 
 ## Labs
 
