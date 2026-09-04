@@ -21,6 +21,7 @@ This repository contains a growing collection of front-end projects, labs, and w
 - [Bookmark-App-Lab](labs/Bookmark-App-Lab/) - A lab exercise focused on Bookmark App Lab.
 - [Currying-Sum-Function-Lab](labs/Currying-Sum-Function-Lab/) - A lab exercise focused on Currying Sum Function Lab.
 - [dfsNqueen-Algorithm-Lab](labs/dfsNqueen-Algorithm-Lab/) - A lab exercise focused on Dfs Nqueen Algorithm Lab.
+- [fcc-Forum-Page-Lab](labs/fcc-Forum-Page-Lab/) - A lab exercise focused on Fcc Forum Page Lab.
 - [Implement-DFS-Lab](labs/Implement-DFS-Lab/) - A lab exercise focused on Implement D F S Lab.
 - [Implementing-Queue-Lab](labs/Implementing-Queue-Lab/) - A lab exercise focused on Implementing Queue Lab.
 - [Implementing-Stack-Lab](labs/Implementing-Stack-Lab/) - A lab exercise focused on Implementing Stack Lab.
@@ -28,10 +29,12 @@ This repository contains a growing collection of front-end projects, labs, and w
 - [Permutation-Generator-Lab](labs/Permutation-Generator-Lab/) - A lab exercise focused on Permutation Generator Lab.
 - [Prime-Sum-Calculator-Lab](labs/Prime-Sum-Calculator-Lab/) - A lab exercise focused on Prime Sum Calculator Lab.
 - [Search-and-Sort-Lab](labs/Search-and-Sort-Lab/) - A lab exercise focused on Search And Sort Lab.
+- [Sorting-Visualizer-Lab](labs/Sorting-Visualizer-Lab/) - A lab exercise focused on Sorting Visualizer Lab.
 
 ## Workshops
 
 - [Decimal-to-Binary-Workshop](workshops/Decimal-to-Binary-Workshop/) - A workshop for learning and applying Decimal To Binary Workshop.
+- [fcc-Authors-Page-Workshop](workshops/fcc-Authors-Page-Workshop/) - A workshop for learning and applying Fcc Authors Page Workshop.
 - [Implement-BFS-WorkShop](workshops/Implement-BFS-WorkShop/) - A workshop for learning and applying Implement B F S Work Shop.
 - [Implement-Shortest-Distance-Workshop](workshops/Implement-Shortest-Distance-Workshop/) - A workshop for learning and applying Implement Shortest Distance Workshop.
 - [Linked-List-Workshop](workshops/Linked-List-Workshop/) - A workshop for learning and applying Linked List Workshop.
