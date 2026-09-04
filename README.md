@@ -47,9 +47,11 @@ This repository contains a growing collection of front-end projects, labs, and w
 - [areAnagram-Challenge](challenges/areAnagram-Challenge/) - A coding challenge focused on Are Anagram Challenge.
 - [Array-Duplicates-Challenge](challenges/Array-Duplicates-Challenge/) - A coding challenge focused on Array Duplicates Challenge.
 - [Emoji-Challenge](challenges/Emoji-Challenge/) - A coding challenge focused on Emoji Challenge.
+- [find-Target-Challenge](challenges/find-Target-Challenge/) - A coding challenge focused on Find Target Challenge.
 - [Golf-Handicap-Calculator-Challenge](challenges/Golf-Handicap-Calculator-Challenge/) - A coding challenge focused on Golf Handicap Calculator Challenge.
 - [Grid-Challenge](challenges/Grid-Challenge/) - A coding challenge focused on Grid Challenge.
 - [Jumbled-Challenge](challenges/Jumbled-Challenge/) - A coding challenge focused on Jumbled Challenge.
+- [New-Pangram-Challenge](challenges/New-Pangram-Challenge/) - A coding challenge focused on New Pangram Challenge.
 - [Second-Best-Challenge](challenges/Second-Best-Challenge/) - A coding challenge focused on Second Best Challenge.
 - [Seconds-Formatter-Challenge](challenges/Seconds-Formatter-Challenge/) - A coding challenge focused on Seconds Formatter Challenge.
 - [Spacejam-Challenge](challenges/Spacejam-Challenge/) - A coding challenge focused on Spacejam Challenge.
