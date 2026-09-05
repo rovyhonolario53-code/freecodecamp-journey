@@ -1,0 +1,69 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Shortest Path Visualizer</title>
+    <link rel="stylesheet" href="styles.css" />
+  </head>
+  <body>
+    <main class="app-shell">
+      <header class="topbar">
+        <div>
+          <p class="eyebrow">Dijkstra Algorithm</p>
+          <h1>Shortest Path Visualizer</h1>
+        </div>
+      </header>
+
+      <section class="controls" aria-label="Graph controls">
+        <label>
+          <span>Start node</span>
+          <select id="start-node"></select>
+        </label>
+
+        <label>
+          <span>Target node</span>
+          <select id="target-node"></select>
+        </label>
+
+        <div class="button-group">
+          <button id="run-btn" type="button">Run visualization</button>
+          <button id="reset-btn" class="secondary" type="button">Reset</button>
+        </div>
+      </section>
+
+      <section class="dashboard">
+        <div class="graph-card card">
+          <h2>Graph view</h2>
+          <svg id="graph" viewBox="0 0 760 420" role="img" aria-label="Shortest path graph"></svg>
+        </div>
+
+        <aside class="details card">
+          <h2>Current update</h2>
+          <p id="step-status">Choose a start and target node to begin.</p>
+
+          <div class="distance-box">
+            <h3>Distance table</h3>
+            <table>
+              <thead>
+                <tr>
+                  <th>Node</th>
+                  <th>Distance</th>
+                </tr>
+              </thead>
+              <tbody id="distance-table"></tbody>
+            </table>
+          </div>
+        </aside>
+      </section>
+
+      <section class="results card">
+        <h2>Shortest route</h2>
+        <div id="route-output" class="route-output">No route calculated yet.</div>
+        <ul id="step-log" class="step-log"></ul>
+      </section>
+    </main>
+
+    <script src="script.js"></script>
+  </body>
+</html>

@@ -1,0 +1,51 @@
+<!doctype html>
+<html lang="en">
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Linked List Workshop</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <main class="workshop">
+        <header class="intro">
+            <p class="eyebrow">DATA STRUCTURES / WORKSHOP</p>
+            <h1>Linked list lab</h1>
+            <p>Build a chain one node at a time and watch each <code>next</code> pointer connect to the next value.</p>
+        </header>
+
+        <section class="controls" aria-labelledby="controls-title">
+            <div>
+                <p class="section-label" id="controls-title">Node controls</p>
+                <p class="hint">Add values to the tail or remove the first matching value.</p>
+            </div>
+            <form id="node-form">
+                <label for="node-value">Value</label>
+                <input id="node-value" name="value" type="text" placeholder="e.g. 45" autocomplete="off" required>
+                <button type="submit">Add node</button>
+                <button class="secondary" id="remove-node" type="button">Remove</button>
+                <label for="node-index">Index</label>
+                <input id="node-index" name="index" type="number" min="0" placeholder="index">
+                <button class="secondary" id="insert-node" type="button">Insert at</button>
+                <button class="secondary" id="remove-at" type="button">Remove at</button>
+                <button class="secondary" id="get-at" type="button">Get at</button>
+                <button class="secondary" id="contains-node" type="button">Contains?</button>
+                <button class="icon-button" id="clear-list" type="button" aria-label="Clear list" title="Clear list">Reset</button>
+            </form>
+            <p class="feedback" id="feedback" role="status" aria-live="polite"></p>
+        </section>
+
+        <section class="list-panel" aria-labelledby="list-title">
+            <div class="list-heading">
+                <div>
+                    <p class="section-label">Live structure</p>
+                    <h2 id="list-title">Head <span class="pointer-mark">-&gt;</span></h2>
+                </div>
+                <span class="length" id="list-length">0 nodes</span>
+            </div>
+            <div class="list-canvas" id="list-canvas" aria-live="polite"></div>
+        </section>
+    </main>
+    <script src="script.js"></script>
+</body>
+</html>
