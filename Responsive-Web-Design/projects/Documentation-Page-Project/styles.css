@@ -1,0 +1,136 @@
+:root {
+    --bg: #f6f7fb;
+    --panel: #ffffff;
+    --border: #e5e7eb;
+    --text: #1f2937;
+    --muted: #4b5563;
+    --accent: #111827;
+    --soft: #f3f4f6;
+}
+
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+html {
+    scroll-behavior: smooth;
+}
+
+body {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    background: var(--bg);
+    color: var(--text);
+    line-height: 1.7;
+    margin: 0;
+    padding: 0;
+}
+
+#navbar {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 250px;
+    height: 100vh;
+    background: var(--panel);
+    border-right: 1px solid var(--border);
+    padding: 1.5rem 1rem;
+    overflow-y: auto;
+}
+
+#navbar header {
+    padding: 0 0 1rem;
+    border-bottom: 1px solid var(--border);
+    margin-bottom: 0.75rem;
+}
+
+#navbar h1 {
+    font-size: 1.3rem;
+    font-weight: 700;
+    letter-spacing: 0.02em;
+    color: var(--accent);
+}
+
+.nav-link {
+    display: block;
+    text-decoration: none;
+    color: var(--muted);
+    font-size: 0.98rem;
+    padding: 0.8rem 0.9rem;
+    border-radius: 8px;
+    transition: all 0.2s ease;
+}
+
+.nav-link:hover,
+.nav-link:focus {
+    background: var(--soft);
+    color: var(--accent);
+}
+
+#main-doc {
+    margin-left: 250px;
+    padding: 3rem 2.5rem 4rem;
+    max-width: 980px;
+}
+
+.main-section {
+    background: rgba(255, 255, 255, 0.4);
+    border: 1px solid var(--border);
+    border-radius: 16px;
+    padding: 1.5rem 1.75rem;
+    margin-bottom: 1.5rem;
+}
+
+.main-section header {
+    margin-bottom: 1rem;
+}
+
+.main-section h1 {
+    font-size: clamp(1.4rem, 2vw, 2rem);
+    color: var(--accent);
+    font-weight: 700;
+}
+
+.main-section p,
+.main-section li {
+    color: var(--muted);
+    margin-bottom: 0.9rem;
+}
+
+.main-section ul {
+    padding-left: 1.4rem;
+}
+
+pre {
+    background: #111827;
+    color: #f9fafb;
+    padding: 1rem 1.1rem;
+    border-radius: 12px;
+    overflow-x: auto;
+    margin: 1rem 0;
+    font-size: 0.92rem;
+}
+
+code {
+    font-family: 'Consolas', 'Monaco', monospace;
+}
+
+@media (max-width: 768px) {
+    #navbar {
+        position: static;
+        width: 100%;
+        height: auto;
+        border-right: none;
+        border-bottom: 1px solid var(--border);
+    }
+
+    #main-doc {
+        margin-left: 0;
+        padding: 1.5rem 1rem 3rem;
+    }
+
+    .main-section {
+        padding: 1.2rem 1rem;
+    }
+}

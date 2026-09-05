@@ -66,6 +66,10 @@ This repository contains a growing collection of front-end projects, labs, and w
 
 ### Projects
 
+- [Documentation-Page-Project](Responsive-Web-Design/projects/Documentation-Page-Project/) - A project for building and practicing Documentation Page Project.
+- [Inventory-App-Project](Responsive-Web-Design/projects/Inventory-App-Project/) - A project for building and practicing Inventory App Project.
+- [Playing-Cards-Project](Responsive-Web-Design/projects/Playing-Cards-Project/) - A project for building and practicing Playing Cards Project.
+- [Product-Landing-Page-Project](Responsive-Web-Design/projects/Product-Landing-Page-Project/) - A project for building and practicing Product Landing Page Project.
 - [Survey-Form-Project](Responsive-Web-Design/projects/Survey-Form-Project/) - A project for building and practicing Survey Form Project.
 
 ### Labs

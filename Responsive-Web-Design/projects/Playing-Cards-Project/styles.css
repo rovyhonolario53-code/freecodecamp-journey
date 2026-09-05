@@ -1,0 +1,62 @@
+html {
+    box-shadow: 0 0 200px rgba(0, 0, 0, 0.9) inset;
+}
+
+
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100vw;
+    height: 100vh;
+    background-color: red;
+}
+
+
+#playing-cards {
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    gap: 20px;
+}
+
+.card {
+    width: 250px;
+    height: 350px;
+    background-color: #fff;
+    margin: 5px auto;
+    border-radius: 10px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    flex-direction: column;
+    box-shadow: 5px 5px 10px 5px black;
+}
+
+.middle {
+    display: flex;
+    align-self: center;
+    flex-direction: column;
+    font-size: 5rem;
+}
+
+.right {
+    display: flex;
+    align-self: flex-end;
+    flex-direction: column-reverse;
+    justify-content: space-between;
+    transform: rotate(180deg);
+    margin: 5px;
+    font-weight: bold;
+    font-size: 2em;
+}
+
+.left {
+    display: flex;
+    align-self: flex-start;
+    flex-direction: column;
+    justify-content: space-between;
+    margin: 5px;
+    font-weight: bold;
+    font-size: 2em;
+}
