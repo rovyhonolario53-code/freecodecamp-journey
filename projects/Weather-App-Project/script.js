@@ -104,13 +104,18 @@ async function handleGetWeather(city) {
     getWeatherBtn.textContent = "Get Weather";
 }
 
+let isClicked = false;
 
 getWeatherBtn.addEventListener("click", async () => {
     const selected = selectCity.value;
     await handleGetWeather(selected);
+    isClicked = true;
 });
 
 selectCity.addEventListener("change", async () => {
+    if (isClicked) {
     const selected = selectCity.value;
     await handleGetWeather(selected);
+    }
+   
 });
