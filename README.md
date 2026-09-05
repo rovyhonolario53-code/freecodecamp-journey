@@ -4,8 +4,24 @@ This repository contains a growing collection of front-end projects, labs, and w
 
 ## Table of Contents
 
+- [Front-End-Development-Libraries](#frontenddevelopmentlibraries)
 - [JavaScript](#javascript)
+- [Responsive-Web-Design](#responsivewebdesign)
 - [Challenges](#challenges)
+
+## Front-End-Development-Libraries
+
+### Projects
+
+- No items added yet.
+
+### Labs
+
+- No items added yet.
+
+### Workshops
+
+- No items added yet.
 
 ## JavaScript
 
@@ -45,6 +61,20 @@ This repository contains a growing collection of front-end projects, labs, and w
 - [Recipe-Ingredient-Converter-Workshop](JavaScript/workshops/Recipe-Ingredient-Converter-Workshop/) - A workshop for learning and applying Recipe Ingredient Converter Workshop.
 - [Shopping-Cart-Workshop](JavaScript/workshops/Shopping-Cart-Workshop/) - A workshop for learning and applying Shopping Cart Workshop.
 - [To-Do-List-Workshop](JavaScript/workshops/To-Do-List-Workshop/) - A workshop for learning and applying To Do List Workshop.
+
+## Responsive-Web-Design
+
+### Projects
+
+- No items added yet.
+
+### Labs
+
+- No items added yet.
+
+### Workshops
+
+- No items added yet.
 
 ## Challenges
 
