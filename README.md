@@ -13,6 +13,7 @@ This repository contains a growing collection of front-end projects, labs, and w
 
 - [Bank-Account-Management-Project](projects/Bank-Account-Management-Project/) - A project for building and practicing Bank Account Management Project.
 - [Drum-Project](projects/Drum-Project/) - A project for building and practicing Drum Project.
+- [Markdown-to-HTML-Converter-Project](projects/Markdown-to-HTML-Converter-Project/) - A project for building and practicing Markdown To H T M L Converter Project.
 - [Voting-Project](projects/Voting-Project/) - A project for building and practicing Voting Project.
 - [Weather-App-Project](projects/Weather-App-Project/) - A project for building and practicing Weather App Project.
 
@@ -34,11 +35,13 @@ This repository contains a growing collection of front-end projects, labs, and w
 
 ## Workshops
 
+- [Budgeter-Workshop](workshops/Budgeter-Workshop/) - A workshop for learning and applying Budgeter Workshop.
 - [Decimal-to-Binary-Workshop](workshops/Decimal-to-Binary-Workshop/) - A workshop for learning and applying Decimal To Binary Workshop.
 - [fcc-Authors-Page-Workshop](workshops/fcc-Authors-Page-Workshop/) - A workshop for learning and applying Fcc Authors Page Workshop.
 - [Implement-BFS-WorkShop](workshops/Implement-BFS-WorkShop/) - A workshop for learning and applying Implement B F S Work Shop.
 - [Implement-Shortest-Distance-Workshop](workshops/Implement-Shortest-Distance-Workshop/) - A workshop for learning and applying Implement Shortest Distance Workshop.
 - [Linked-List-Workshop](workshops/Linked-List-Workshop/) - A workshop for learning and applying Linked List Workshop.
+- [Music-Player-Workshop](workshops/Music-Player-Workshop/) - A workshop for learning and applying Music Player Workshop.
 - [Recipe-Ingredient-Converter-Workshop](workshops/Recipe-Ingredient-Converter-Workshop/) - A workshop for learning and applying Recipe Ingredient Converter Workshop.
 - [Shopping-Cart-Workshop](workshops/Shopping-Cart-Workshop/) - A workshop for learning and applying Shopping Cart Workshop.
 - [To-Do-List-Workshop](workshops/To-Do-List-Workshop/) - A workshop for learning and applying To Do List Workshop.
