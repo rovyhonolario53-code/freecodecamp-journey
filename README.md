@@ -78,7 +78,7 @@ This repository contains a growing collection of front-end projects, labs, and w
 
 ### Workshops
 
-- No items added yet.
+- [Penguin-Animation-Workshop](Responsive-Web-Design/workshops/Penguin-Animation-Workshop/) - A workshop for learning and applying Penguin Animation Workshop.
 
 ## Challenges
 
