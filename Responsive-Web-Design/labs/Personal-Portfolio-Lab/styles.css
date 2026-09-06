@@ -25,7 +25,7 @@ html {
 }
 
 body {
-    background: #45171d;
+    background: var(--color1);
     color: #1a1a1a;
     line-height: 1.6;
 }
@@ -36,22 +36,18 @@ a {
 
 #navbar {
     display: flex;
-    justify-content: flex-end;
+    justify-content: center;
     position: absolute;
     top: 0;
     left: 0;
     width: 100%;
     min-height: 2rem;
-    backdrop-filter: blur(8px);
-    box-shadow: 0 8px 20px rgba(0, 0, 0, 0.12);
-    border-bottom: 1px solid rgba(255, 255, 255, 0.15);
     z-index: 10;
     background: rgba(255, 255, 255, 0.15);
     backdrop-filter: blur(10px);
     -webkit-backdrop-filter: blur(10px);
     border: 1px solid rgba(255, 255, 255, 0.2);
     box-shadow: 0 4px 30px var(--color-2);
-    justify-content: center;
     align-items: center;
 }
 
@@ -90,7 +86,7 @@ a {
     align-items: center;
     width: 100%;
     min-height: 100vh;
-    background: linear-gradient(135deg, #45171d 0%, #be223b 35%, #e84a5f 65%, #fecea8 100%);
+    background: linear-gradient(135deg, var(--color1) 0%, var(--accent) 35%, var(--color-2) 65%, var(--color-4) 100%);
     overflow: hidden;
     color: #fff;
     padding: 6rem 2rem 2rem;
@@ -131,11 +127,9 @@ a {
     background-color: var(--color1);
     text-align: center;
     border-radius: 30px;
-    
 }
 
 .projects-header {
-    justify-content: flex-start;
     color: var(--white);
     font-size: clamp(2rem, 4vw, 2.8rem);
     max-width: 640px;
@@ -222,10 +216,10 @@ a {
     color: #fff;
     text-decoration: none;
     padding: 0.75rem 1rem;
-        background: rgba(255, 255, 255, 0.15);
-            backdrop-filter: blur(10px);
-            -webkit-backdrop-filter: blur(10px);
-            border: 1px solid rgba(255, 255, 255, 0.2);
+    background: rgba(255, 255, 255, 0.15);
+    backdrop-filter: blur(10px);
+    -webkit-backdrop-filter: blur(10px);
+    border: 1px solid rgba(255, 255, 255, 0.2);
 }
 
 .contact-details:hover {
