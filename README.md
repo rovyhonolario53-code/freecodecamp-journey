@@ -74,7 +74,7 @@ This repository contains a growing collection of front-end projects, labs, and w
 
 ### Labs
 
-- No items added yet.
+- [Personal-Portfolio-Lab](Responsive-Web-Design/labs/Personal-Portfolio-Lab/) - A lab exercise focused on Personal Portfolio Lab.
 
 ### Workshops
 
