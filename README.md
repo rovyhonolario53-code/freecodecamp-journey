@@ -17,11 +17,11 @@ This repository contains a growing collection of front-end projects, labs, and w
 
 ### Labs
 
-- No items added yet.
+- [Footer-Lab](Front-End-Development-Libraries/labs/Footer-Lab/) - A lab exercise focused on Footer Lab.
 
 ### Workshops
 
-- No items added yet.
+- [Nav-Workshop](Front-End-Development-Libraries/workshops/Nav-Workshop/) - A workshop for learning and applying Nav Workshop.
 
 ## JavaScript
 
