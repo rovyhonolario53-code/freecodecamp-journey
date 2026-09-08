@@ -13,7 +13,7 @@ This repository contains a growing collection of front-end projects, labs, and w
 
 ### Projects
 
-- No items added yet.
+- [React-Demo-Project](Front-End-Development-Libraries/projects/React-Demo-Project/) - A project for building and practicing React Demo Project.
 
 ### Labs
 
