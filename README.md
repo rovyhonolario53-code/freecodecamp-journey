@@ -18,10 +18,12 @@ This repository contains a growing collection of front-end projects, labs, and w
 ### Labs
 
 - [Footer-Lab](Front-End-Development-Libraries/labs/Footer-Lab/) - A lab exercise focused on Footer Lab.
+- [Mood-Board-Lab](Front-End-Development-Libraries/labs/Mood-Board-Lab/) - A lab exercise focused on Mood Board Lab.
 
 ### Workshops
 
 - [Nav-Workshop](Front-End-Development-Libraries/workshops/Nav-Workshop/) - A workshop for learning and applying Nav Workshop.
+- [Profile-Card-Workshop](Front-End-Development-Libraries/workshops/Profile-Card-Workshop/) - A workshop for learning and applying Profile Card Workshop.
 
 ## JavaScript
 
