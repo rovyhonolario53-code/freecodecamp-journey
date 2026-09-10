@@ -17,6 +17,7 @@ This repository contains a growing collection of front-end projects, labs, and w
 
 ### Labs
 
+- [Color-Picker-Lab](Front-End-Development-Libraries/labs/Color-Picker-Lab/) - A lab exercise focused on Color Picker Lab.
 - [Footer-Lab](Front-End-Development-Libraries/labs/Footer-Lab/) - A lab exercise focused on Footer Lab.
 - [Mood-Board-Lab](Front-End-Development-Libraries/labs/Mood-Board-Lab/) - A lab exercise focused on Mood Board Lab.
 
@@ -24,6 +25,7 @@ This repository contains a growing collection of front-end projects, labs, and w
 
 - [Nav-Workshop](Front-End-Development-Libraries/workshops/Nav-Workshop/) - A workshop for learning and applying Nav Workshop.
 - [Profile-Card-Workshop](Front-End-Development-Libraries/workshops/Profile-Card-Workshop/) - A workshop for learning and applying Profile Card Workshop.
+- [Toggle-Button-Workshop](Front-End-Development-Libraries/workshops/Toggle-Button-Workshop/) - A workshop for learning and applying Toggle Button Workshop.
 
 ## JavaScript
 
@@ -86,15 +88,20 @@ This repository contains a growing collection of front-end projects, labs, and w
 
 - [areAnagram-Challenge](challenges/areAnagram-Challenge/) - A coding challenge focused on Are Anagram Challenge.
 - [Array-Duplicates-Challenge](challenges/Array-Duplicates-Challenge/) - A coding challenge focused on Array Duplicates Challenge.
+- [Base-Validation-Challenge](challenges/Base-Validation-Challenge/) - A coding challenge focused on Base Validation Challenge.
 - [Emoji-Challenge](challenges/Emoji-Challenge/) - A coding challenge focused on Emoji Challenge.
+- [Factorial-Challenge](challenges/Factorial-Challenge/) - A coding challenge focused on Factorial Challenge.
 - [find-Target-Challenge](challenges/find-Target-Challenge/) - A coding challenge focused on Find Target Challenge.
+- [Generate-Acronym-Challenge](challenges/Generate-Acronym-Challenge/) - A coding challenge focused on Generate Acronym Challenge.
 - [Golf-Handicap-Calculator-Challenge](challenges/Golf-Handicap-Calculator-Challenge/) - A coding challenge focused on Golf Handicap Calculator Challenge.
 - [Grid-Challenge](challenges/Grid-Challenge/) - A coding challenge focused on Grid Challenge.
+- [isCharAllUnique-Challenge](challenges/isCharAllUnique-Challenge/) - A coding challenge focused on Is Char All Unique Challenge.
 - [Jumbled-Challenge](challenges/Jumbled-Challenge/) - A coding challenge focused on Jumbled Challenge.
 - [New-Pangram-Challenge](challenges/New-Pangram-Challenge/) - A coding challenge focused on New Pangram Challenge.
 - [Second-Best-Challenge](challenges/Second-Best-Challenge/) - A coding challenge focused on Second Best Challenge.
 - [Seconds-Formatter-Challenge](challenges/Seconds-Formatter-Challenge/) - A coding challenge focused on Seconds Formatter Challenge.
 - [Spacejam-Challenge](challenges/Spacejam-Challenge/) - A coding challenge focused on Spacejam Challenge.
+- [Sum-of-Square-Challenge](challenges/Sum-of-Square-Challenge/) - A coding challenge focused on Sum Of Square Challenge.
 - [Tribonacci-Results-Generator-Challenge](challenges/Tribonacci-Results-Generator-Challenge/) - A coding challenge focused on Tribonacci Results Generator Challenge.
 - [Vowel-Balance-Challenge](challenges/Vowel-Balance-Challenge/) - A coding challenge focused on Vowel Balance Challenge.
 
