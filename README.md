@@ -23,6 +23,7 @@ This repository contains a growing collection of front-end projects, labs, and w
 
 ### Workshops
 
+- [Fruit-Search-Workshop](Front-End-Development-Libraries/workshops/Fruit-Search-Workshop/) - A workshop for learning and applying Fruit Search Workshop.
 - [Nav-Workshop](Front-End-Development-Libraries/workshops/Nav-Workshop/) - A workshop for learning and applying Nav Workshop.
 - [Profile-Card-Workshop](Front-End-Development-Libraries/workshops/Profile-Card-Workshop/) - A workshop for learning and applying Profile Card Workshop.
 - [Toggle-Button-Workshop](Front-End-Development-Libraries/workshops/Toggle-Button-Workshop/) - A workshop for learning and applying Toggle Button Workshop.
