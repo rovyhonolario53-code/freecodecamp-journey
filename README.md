@@ -20,6 +20,7 @@ This repository contains a growing collection of front-end projects, labs, and w
 - [Color-Picker-Lab](Front-End-Development-Libraries/labs/Color-Picker-Lab/) - A lab exercise focused on Color Picker Lab.
 - [Footer-Lab](Front-End-Development-Libraries/labs/Footer-Lab/) - A lab exercise focused on Footer Lab.
 - [Mood-Board-Lab](Front-End-Development-Libraries/labs/Mood-Board-Lab/) - A lab exercise focused on Mood Board Lab.
+- [OTP-Generator-Lab](Front-End-Development-Libraries/labs/OTP-Generator-Lab/) - A lab exercise focused on O T P Generator Lab.
 
 ### Workshops
 
