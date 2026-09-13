@@ -1,0 +1,126 @@
+*, ::before, ::after {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+body {
+    height: 100vh;
+    width: 100vw;
+    background-color: #3E3448;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+#form-container {
+    background-color: #F2E9D8;
+    display: flex;
+    flex-direction: column;
+    width: min(60vw, 30rem);
+    height: min(90vh, 36rem);
+    aspect-ratio: 4 / 3;
+    padding: 2rem;
+    border-radius: 0.75rem;
+    box-shadow: 0 0.75rem 2rem rgba(0, 0, 0, 0.25);
+    border: 2px solid #A88B4A;
+}
+
+#form-container::before {
+    content: "RSVP Form";
+    display: block;
+    color: #332B22;
+    font-size: 1.5rem;
+    font-weight: 700;
+    margin-bottom: 1rem;
+    text-align: center;
+}
+
+form {
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+    height: 100%;
+    gap: 0.5rem;
+}
+
+label {
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+    gap: 0.25rem;
+}
+
+label:has(input[type="checkbox"]) {
+    flex-direction: row;
+}
+
+input:not(input[type = "checkbox"]) {
+    width: 100%;
+    height: 3rem;
+    color: #332B22;
+    border: 2px solid #C9B98A;
+    background-color: #FBF7EE;
+    border-radius: 5px;
+    padding: 0 0.75rem;
+}
+
+input::placeholder {
+    color: #8A7F63;
+}
+
+input:focus {
+    outline: none;
+    border-color: #C97B84;
+    box-shadow: 0 0 0 2px rgba(201, 123, 132, 0.25);
+}
+
+input[type="checkbox"] {
+    accent-color: #3E5641;
+    width: 1rem;
+    height: 1rem;
+    display: inline-block;
+    margin: 0 2rem 0 0;
+    vertical-align: middle;
+    transform: scale(1);
+}
+
+span {
+    margin: 5px;
+}
+
+button:first-of-type {
+    background-color: #3E5641;
+    outline: none;
+    border: 0;
+    height: 2rem;
+    color: #FBF7EE;
+    border-radius: 10px;
+    text-align: center;
+    cursor: pointer;
+    transition: background-color 0.2s ease;
+}
+
+button:first-of-type:hover {
+    background-color: #304431;
+}
+
+.modal-overlay {
+    position: fixed;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    background: rgba(0, 0, 0, 0.5);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.modal-box {
+    background: white;
+    padding: 24px;
+    max-width: 400px;
+    border-radius: 8px;
+    line-height: 1.5;
+}
