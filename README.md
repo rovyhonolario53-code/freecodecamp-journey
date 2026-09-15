@@ -28,6 +28,7 @@ This repository contains a growing collection of front-end projects, labs, and w
 - [Fruit-Search-Workshop](Front-End-Development-Libraries/workshops/Fruit-Search-Workshop/) - A workshop for learning and applying Fruit Search Workshop.
 - [Nav-Workshop](Front-End-Development-Libraries/workshops/Nav-Workshop/) - A workshop for learning and applying Nav Workshop.
 - [Profile-Card-Workshop](Front-End-Development-Libraries/workshops/Profile-Card-Workshop/) - A workshop for learning and applying Profile Card Workshop.
+- [Shopping-List-Workshop](Front-End-Development-Libraries/workshops/Shopping-List-Workshop/) - A workshop for learning and applying Shopping List Workshop.
 - [Superhero-Form-Workshop](Front-End-Development-Libraries/workshops/Superhero-Form-Workshop/) - A workshop for learning and applying Superhero Form Workshop.
 - [Toggle-Button-Workshop](Front-End-Development-Libraries/workshops/Toggle-Button-Workshop/) - A workshop for learning and applying Toggle Button Workshop.
 
