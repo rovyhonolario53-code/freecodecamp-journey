@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Music Shopping Cart Page</title>
+    <script src="https://cdn.tailwindcss.com"></script>
+  </head>
+  <body class = "bg-black">
+    <main id = "shopping-cart-container" class = "bg-black text-white flex flex-col lg:flex-row">
+      <h1 class = "font-semibold text-4xl text-center mt-4 tracking-tight">Shopping Cart Page</h1>
+
+      <div id = "products-container">
+        <div class = "m-4 card bg-zinc-900 border border-zinc-800 flex flex-col justify-center items-center mt-4 rounded-lg p-4">
+        <h2 class = "text-xl font-bold mt-2">Piano</h2>
+        <span class = "quantity my-1 text-zinc-400">Quantity: 1</span>
+        <span class = "price my-1 text-zinc-400">Price: $2</span>
+        <button class = "remove-button my-4 bg-red-500 hover:bg-red-400 p-1 px-3 rounded-md transition-colors">Remove</button>
+       </div>
+
+       <div class = "m-4 card bg-zinc-900 border border-zinc-800 flex flex-col justify-center items-center mt-4 rounded-lg p-4">
+        <h2 class = "text-xl font-bold mt-2">Guitar</h2>
+        <span class = "quantity my-1 text-zinc-400">Quantity: 1</span>
+        <span class = "price my-1 text-zinc-400">Price: $4</span>
+        <button class = "remove-button my-4 bg-red-500 hover:bg-red-400 p-1 px-3 rounded-md transition-colors">Remove</button>
+       </div>
+      </div>
+
+      <div id = "order-summary-container" class = "bg-zinc-900 border border-zinc-800 flex justify-center items-center flex-col rounded-lg m-16 p-6">
+        <h2 class = "font-bold text-xl text-center">Order Summary</h2>
+        <span id = "total" class = "text-zinc-400 text-lg font-semibold">Total:</span>
+        <span id = "total-amount" class = "text-xl font-semibold">$6</span>
+        <a href = "#" class = "bg-blue-400 text-center hover:bg-blue-100 rounded-md my-4 px-4 py-2 transition-colors font-medium">Checkout</a>
+      </div>
+    </main>
+
+  </body>
+</html>

@@ -24,11 +24,15 @@ This repository contains a growing collection of front-end projects, labs, and w
 - [Mood-Board-Lab](Front-End-Development-Libraries/labs/Mood-Board-Lab/) - A lab exercise focused on Mood Board Lab.
 - [OTP-Generator-Lab](Front-End-Development-Libraries/labs/OTP-Generator-Lab/) - A lab exercise focused on O T P Generator Lab.
 - [RVSP-Form-Lab](Front-End-Development-Libraries/labs/RVSP-Form-Lab/) - A lab exercise focused on R V S P Form Lab.
+- [Shopping-Cart-Lab](Front-End-Development-Libraries/labs/Shopping-Cart-Lab/) - A lab exercise focused on Shopping Cart Lab.
 
 ### Workshops
 
+- [Call-to-Action-Workshop](Front-End-Development-Libraries/workshops/Call-to-Action-Workshop/) - A workshop for learning and applying Call To Action Workshop.
+- [Error-Message-Workshop](Front-End-Development-Libraries/workshops/Error-Message-Workshop/) - A workshop for learning and applying Error Message Workshop.
 - [Fruit-Search-Workshop](Front-End-Development-Libraries/workshops/Fruit-Search-Workshop/) - A workshop for learning and applying Fruit Search Workshop.
 - [Nav-Workshop](Front-End-Development-Libraries/workshops/Nav-Workshop/) - A workshop for learning and applying Nav Workshop.
+- [Pricing-Component-Workshop](Front-End-Development-Libraries/workshops/Pricing-Component-Workshop/) - A workshop for learning and applying Pricing Component Workshop.
 - [Profile-Card-Workshop](Front-End-Development-Libraries/workshops/Profile-Card-Workshop/) - A workshop for learning and applying Profile Card Workshop.
 - [Shopping-List-Workshop](Front-End-Development-Libraries/workshops/Shopping-List-Workshop/) - A workshop for learning and applying Shopping List Workshop.
 - [Superhero-Form-Workshop](Front-End-Development-Libraries/workshops/Superhero-Form-Workshop/) - A workshop for learning and applying Superhero Form Workshop.
