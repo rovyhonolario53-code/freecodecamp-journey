@@ -14,6 +14,7 @@ This repository contains a growing collection of front-end projects, labs, and w
 ### Projects
 
 - [Currency-Converter-Project](Front-End-Development-Libraries/projects/Currency-Converter-Project/) - A project for building and practicing Currency Converter Project.
+- [Photography-Exhibit-Project](Front-End-Development-Libraries/projects/Photography-Exhibit-Project/) - A project for building and practicing Photography Exhibit Project.
 - [React-Demo-Project](Front-End-Development-Libraries/projects/React-Demo-Project/) - A project for building and practicing React Demo Project.
 - [Tic-Tac-Toe-Game-Project](Front-End-Development-Libraries/projects/Tic-Tac-Toe-Game-Project/) - A project for building and practicing Tic Tac Toe Game Project.
 
