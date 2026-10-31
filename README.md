@@ -39,6 +39,7 @@ This repository contains a growing collection of front-end projects, labs, and w
 - [Shopping-List-Workshop](Front-End-Development-Libraries/workshops/Shopping-List-Workshop/) - A workshop for learning and applying Shopping List Workshop.
 - [Superhero-Form-Workshop](Front-End-Development-Libraries/workshops/Superhero-Form-Workshop/) - A workshop for learning and applying Superhero Form Workshop.
 - [Toggle-Button-Workshop](Front-End-Development-Libraries/workshops/Toggle-Button-Workshop/) - A workshop for learning and applying Toggle Button Workshop.
+- [Typescript-Shape-Area-Calculator-Workshop](Front-End-Development-Libraries/workshops/Typescript-Shape-Area-Calculator-Workshop/) - A workshop for learning and applying Typescript Shape Area Calculator Workshop.
 
 ## JavaScript
 
