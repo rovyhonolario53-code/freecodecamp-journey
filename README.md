@@ -106,10 +106,12 @@ This repository contains a growing collection of front-end projects, labs, and w
 - [Factorial-Challenge](challenges/Factorial-Challenge/) - A coding challenge focused on Factorial Challenge.
 - [find-Target-Challenge](challenges/find-Target-Challenge/) - A coding challenge focused on Find Target Challenge.
 - [Generate-Acronym-Challenge](challenges/Generate-Acronym-Challenge/) - A coding challenge focused on Generate Acronym Challenge.
+- [get-Extension](challenges/get-Extension/) - A coding challenge focused on Get Extension.
 - [Golf-Handicap-Calculator-Challenge](challenges/Golf-Handicap-Calculator-Challenge/) - A coding challenge focused on Golf Handicap Calculator Challenge.
 - [Grid-Challenge](challenges/Grid-Challenge/) - A coding challenge focused on Grid Challenge.
 - [isCharAllUnique-Challenge](challenges/isCharAllUnique-Challenge/) - A coding challenge focused on Is Char All Unique Challenge.
 - [Jumbled-Challenge](challenges/Jumbled-Challenge/) - A coding challenge focused on Jumbled Challenge.
+- [longest-word](challenges/longest-word/) - A coding challenge focused on Longest Word.
 - [New-Pangram-Challenge](challenges/New-Pangram-Challenge/) - A coding challenge focused on New Pangram Challenge.
 - [Second-Best-Challenge](challenges/Second-Best-Challenge/) - A coding challenge focused on Second Best Challenge.
 - [Seconds-Formatter-Challenge](challenges/Seconds-Formatter-Challenge/) - A coding challenge focused on Seconds Formatter Challenge.
@@ -117,4 +119,5 @@ This repository contains a growing collection of front-end projects, labs, and w
 - [Sum-of-Square-Challenge](challenges/Sum-of-Square-Challenge/) - A coding challenge focused on Sum Of Square Challenge.
 - [Tribonacci-Results-Generator-Challenge](challenges/Tribonacci-Results-Generator-Challenge/) - A coding challenge focused on Tribonacci Results Generator Challenge.
 - [Vowel-Balance-Challenge](challenges/Vowel-Balance-Challenge/) - A coding challenge focused on Vowel Balance Challenge.
+- [vowelNConsonant-counter](challenges/vowelNConsonant-counter/) - A coding challenge focused on Vowel N Consonant Counter.
 
